@@ -28,7 +28,7 @@ sudo ls -lh disk.img
 ```
 ```
 strings disk.img | less
-```
+
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
